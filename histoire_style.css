@@ -1,0 +1,10 @@
+.para {
+  margin: auto;
+  width: 800px;
+}
+
+p {
+  margin-top: 40px;
+  text-align: center;
+  line-height: 25px;
+}
